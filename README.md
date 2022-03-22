@@ -1,3 +1,3 @@
-# Quiz 1 
+# Quiz 2 
 ## Vineet Kumar Sharma
 2019BtechCSE060
